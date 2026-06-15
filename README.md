@@ -13,12 +13,12 @@ It is possible to
 Visit: https://blog-h9oo.onrender.com/
 
 ## Installation
-\`\`\`bash
+```bash
 git clone https://github.com/OverlordGummyBear/Blog.git
 cd Blog
 npm install
 npm start
-\`\`\`
+```
 
 ## Usage
 Open `http://localhost:3000` in your browser to view the blog.
