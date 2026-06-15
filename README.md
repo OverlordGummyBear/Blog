@@ -1,1 +1,24 @@
 # Blog
+
+A simple blog application built with Node.js, Express, and EJS. 
+
+## Features
+It is possible to
+* Specify your name
+* Create Posts
+* Edit Posts
+* Delete Posts
+
+## Live Demo
+Visit: https://blog-h9oo.onrender.com/
+
+## Installation
+\`\`\`bash
+git clone https://github.com/OverlordGummyBear/Blog.git
+cd Blog
+npm install
+npm start
+\`\`\`
+
+## Usage
+Open `http://localhost:3000` in your browser to view the blog.
