@@ -1,6 +1,6 @@
 # Blog
 
-A simple blog application built with Node.js, Express, and EJS. 
+A simple blog application built with Node.js, Express, and EJS. The blog is responsive, so elements adapt to the size of the screen. 
 
 ## Features
 It is possible to
