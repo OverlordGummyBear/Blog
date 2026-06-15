@@ -1,0 +1,19 @@
+<%- include("partials/header.ejs") %>
+
+<body>
+    <div class="welcome-container">
+        <h1 class="suse-mono name-title">What is your name?</h1>
+        
+            <form class="form-container" action="/enter" method="POST"> <!--Form where you can type your name, so it will be displayed on the post-->
+                <input class="name-field" type="text" name="fName" placeholder="Name">
+                
+                <input class="name-btn jockey-one-regular" type="Submit" value="Enter">
+            </form>
+        
+    </div>
+
+<%- include("partials/footer.ejs") %>
+
+</body>
+
+</html>
