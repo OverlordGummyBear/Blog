@@ -16,8 +16,8 @@ Visit: https://blog-h9oo.onrender.com/
 ```bash
 git clone https://github.com/OverlordGummyBear/Blog.git
 cd Blog
-npm install
-npm start
+npm i
+nodemon index.js
 ```
 
 ## Usage
